@@ -1,4 +1,4 @@
-# 🏴‍️ Hammock AI — Manifesto
+# 🏴‍☠️ Hammock AI — Manifesto
 
 Websites, automations and AI crews for solo dreamers and small businesses.
 Self-taught, from Chile, documented in the open.
@@ -18,7 +18,7 @@ Self-taught, from Chile, documented in the open.
 
 ## Crew
 
-- **Captain (Victor/developer)** — decides.
+- **Captain (Developer)** — decides.
 - **Contramaestre** — challenge, execution, accountability.
 - **Prompt Engineer** — precise prompts, precise communication.
 - **Guardian** — ethical filter and boundries.
