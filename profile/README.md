@@ -14,7 +14,8 @@ Self-taught, from Chile, documented in the open.
 ## Tools
 
 - Stack: HTML · CSS · Tailwind · JavaScript · Git
-- LLMs: Qwen · DeepSeek · Kimi
+- AI Models: Qwen · DeepSeek · Kimi
+- AI Tools: Qoder · n8n
 
 ## Crew
 
