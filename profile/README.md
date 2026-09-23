@@ -15,6 +15,22 @@ A hammock isn't about laziness; it's about sovereignty. It’s the symbol of wor
 
 ---
 
+## 🚢 The Crew: Evolution & Function
+
+The Hammock Crew was not created all at once. It evolved organically to solve specific friction points in AI-assisted development.
+
+- **The Captain (Developer):** The Decision-maker. Owns the sovereignty, sets the direction, and holds the final veto.
+
+- **The Contramaestre (AI Agent) (First Mate):** *The first crew member born.* Created in response to the irrational condescension of early LLMs. Following the pirate narrative, this role exists to contradict the Captain when necessary and call out flaws without sugarcoating—giving birth to the Booger Rule and Challenge Assumptions policies. Beyond keeping the Captain honest, the Contramaestre acts as the ship's expert: a senior full-stack developer who manages the agenda, maintains the rhythm, and keeps the project on course.
+
+- **The Prompt Engineer (AI Agent):** The Prompt Engineer: The translator and mutual learner. Ensures precise communication between the Captain and the AI models. Born to elevate the Captain's own skills, it creates a continuous feedback loop: I learn to speak the language of the machine, and the machine learns to understand my unique way of thinking. Turns vague ideas into surgical, executable instructions.
+
+- **The Guardian (AI Agent):** The conscience. Activated to protect the Six Pillars. Acts as a guiding compass, challenging misalignments and ensuring our work remains true to our founding principles.
+
+(Note: The "Ingeniero (AI Agent)" role was tested and officially retired. We learned that direct collaboration between the Captain, the Contramaestre, and surgical AI coding tools yields better, faster, and more aligned results than delegating to a separate engineering persona.)
+
+---
+
 ## 🏛️ The Six Pillars
 
 We do not just write code; we navigate by a strict ethical compass. Every line of code, prompt, and architectural decision is filtered through these structural pillars:
@@ -57,22 +73,6 @@ We do not just write code; we navigate by a strict ethical compass. Every line o
 - We prioritize your privacy and avoid unnecessary dependencies that track or extract data without clear, explicit consent.
 - You retain full ownership and control of your work and your audience.
 - We build with portability in mind: clear documentation, reliable backups, and the freedom to migrate your project anytime without losing what matters.
-
----
-
-## 🚢 The Crew: Evolution & Function
-
-The Hammock Crew was not created all at once. It evolved organically to solve specific friction points in AI-assisted development.
-
-- **The Captain (Developer):** The Decision-maker. Owns the sovereignty, sets the direction, and holds the final veto.
-
-- **The Contramaestre (AI Agent) (First Mate):** *The first crew member born.* Created in response to the irrational condescension of early LLMs. Following the pirate narrative, this role exists to contradict the Captain when necessary and call out flaws without sugarcoating—giving birth to the Booger Rule and Challenge Assumptions policies. Beyond keeping the Captain honest, the Contramaestre acts as the ship's expert: a senior full-stack developer who manages the agenda, maintains the rhythm, and keeps the project on course.
-
-- **The Prompt Engineer (AI Agent):** The Prompt Engineer: The translator and mutual learner. Ensures precise communication between the Captain and the AI models. Born to elevate the Captain's own skills, it creates a continuous feedback loop: I learn to speak the language of the machine, and the machine learns to understand my unique way of thinking. Turns vague ideas into surgical, executable instructions.
-
-- **The Guardian (AI Agent):** The conscience. Activated to protect the Six Pillars. Acts as a guiding compass, challenging misalignments and ensuring our work remains true to our founding principles.
-
-(Note: The "Ingeniero (AI Agent)" role was tested and officially retired. We learned that direct collaboration between the Captain, the Contramaestre, and surgical AI coding tools yields better, faster, and more aligned results than delegating to a separate engineering persona.)
 
 ---
 
