@@ -1,6 +1,6 @@
 # 🏴‍☠️ Hammock AI — Manifesto & Core Pillars
 
-**Websites, sovereign automations, and AI crews for solo dreamers and small businesses.**  
+**Websites, Automations, and AI Agents for solo dreamers and small businesses.**  
 Self-taught, from Chile.
 
 ---
