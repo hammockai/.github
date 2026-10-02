@@ -30,7 +30,7 @@ The Hammock Crew was not created all at once. It evolved organically to solve sp
 
 📂 **Use the crew yourself:** the full system prompts (English & Español) are openly shared under CC BY-SA 4.0 in [**aiCrew**](https://github.com/hammockai/aiCrew): [Contramaestre](https://github.com/hammockai/aiCrew/blob/main/agents/en/contramaestre.md) · [Prompt Engineer](https://github.com/hammockai/aiCrew/blob/main/agents/en/prompt-engineer.md) · [Guardian](https://github.com/hammockai/aiCrew/blob/main/agents/en/guardian.md).
 
-📜 **The journey behind it:** a year of work and study since October 2025, across Claude, Kimi and Qwen. Early and retired agents, and the lineage of each one, are in the [**Logbook**](https://github.com/hammockai/aiCrew/blob/main/logbook/README.md).
+📜 **The journey behind it:** over a year of work and study since August 2025, across Claude, ChatGPT, Kimi and Qwen. Early and retired agents, and the lineage of each one, are in the [**Logbook**](https://github.com/hammockai/aiCrew/blob/main/logbook/README.md).
 
 (Note: The "Ingeniero (AI Agent)" role was tested and officially retired. We learned that direct collaboration between the Captain, the Contramaestre, and surgical AI coding tools yields better, faster, and more aligned results than delegating to a separate engineering persona.)
 
@@ -40,7 +40,7 @@ The Hammock Crew was not created all at once. It evolved organically to solve sp
 
 We do not just write code; we navigate by a strict ethical compass. Every line of code, prompt, and architectural decision is filtered through these structural pillars:
 
-📜 *They evolved over a year of work, from 4 policies to 7 pillars and back to 6: [how the Six Pillars were born](https://github.com/hammockai/aiCrew/blob/main/logbook/pillars.md).*
+📜 *They evolved over a year of work, from a phrase of the Captain's to 7 pillars and back to 6: [how the Six Pillars were born](https://github.com/hammockai/aiCrew/blob/main/logbook/pillars.md).*
 
 ### ⚖️ 1. The Balanced Sea Principle
 *"We operate by Nash Equilibrium: best outcomes emerge when actions benefit both parties."*

@@ -30,7 +30,7 @@ La Hammock Crew no se armó de una. Fue evolucionando sola, a medida que aparec�
 
 📂 **Usa la crew tú mismo:** los system prompts completos (English & Español) están compartidos con licencia CC BY-SA 4.0 en [**aiCrew**](https://github.com/hammockai/aiCrew): [Contramaestre](https://github.com/hammockai/aiCrew/blob/main/agents/es/contramaestre.md) · [Prompt Engineer](https://github.com/hammockai/aiCrew/blob/main/agents/es/prompt-engineer.md) · [Guardian](https://github.com/hammockai/aiCrew/blob/main/agents/es/guardian.md).
 
-📜 **El viaje detrás:** un año de trabajo y estudio desde octubre de 2025, pasando por Claude, Kimi y Qwen. Los agentes antiguos y retirados, y el linaje de cada uno, están en la [**Bitácora**](https://github.com/hammockai/aiCrew/blob/main/logbook/README.es.md).
+📜 **El viaje detrás:** más de un año de trabajo y estudio desde agosto de 2025, pasando por Claude, ChatGPT, Kimi y Qwen. Los agentes antiguos y retirados, y el linaje de cada uno, están en la [**Bitácora**](https://github.com/hammockai/aiCrew/blob/main/logbook/README.es.md).
 
 (Nota: el rol de "Ingeniero (Agente IA)" se probó y se retiró oficialmente. Aprendimos que la colaboración directa entre el Capitán, el Contramaestre y herramientas de código con IA bien precisas da mejores resultados, más rápidos y más alineados que delegar en un personaje de ingeniería aparte.)
 
@@ -40,7 +40,7 @@ La Hammock Crew no se armó de una. Fue evolucionando sola, a medida que aparec�
 
 No solo escribimos código: navegamos con una brújula ética estricta. Cada línea de código, cada prompt y cada decisión de arquitectura pasa por estos pilares:
 
-📜 *Fueron cambiando en un año de trabajo: de 4 políticas a 7 pilares, y de vuelta a 6. [Cómo nacieron los Seis Pilares](https://github.com/hammockai/aiCrew/blob/main/logbook/pillars.es.md).*
+📜 *Fueron cambiando en un año de trabajo: de una frase del Capitán a 7 pilares, y de vuelta a 6. [Cómo nacieron los Seis Pilares](https://github.com/hammockai/aiCrew/blob/main/logbook/pillars.es.md).*
 
 ### ⚖️ 1. El Mar Equilibrado (Balanced Sea)
 *"Operamos según el Equilibrio de Nash: los mejores resultados salen cuando las acciones benefician a ambas partes."*
