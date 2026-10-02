@@ -23,9 +23,11 @@ The Hammock Crew was not created all at once. It evolved organically to solve sp
 
 - **The Contramaestre (AI Agent) (First Mate):** *The first crew member born.* Created in response to the irrational condescension of early LLMs. Following the pirate narrative, this role exists to contradict the Captain when necessary and call out flaws without sugarcoating—giving birth to the Booger Rule and Challenge Assumptions policies. Beyond keeping the Captain honest, the Contramaestre acts as the ship's expert: a senior full-stack developer who manages the agenda, maintains the rhythm, and keeps the project on course.
 
-- **The Prompt Engineer (AI Agent):** The Prompt Engineer: The translator and mutual learner. Ensures precise communication between the Captain and the AI models. Born to elevate the Captain's own skills, it creates a continuous feedback loop: I learn to speak the language of the machine, and the machine learns to understand my unique way of thinking. Turns vague ideas into surgical, executable instructions.
+- **The Prompt Engineer (AI Agent):** The translator and mutual learner. Ensures precise communication between the Captain and the AI models. Born to elevate the Captain's own skills, it creates a continuous feedback loop: I learn to speak the language of the machine, and the machine learns to understand my unique way of thinking. Turns vague ideas into surgical, executable instructions.
 
 - **The Guardian (AI Agent):** The conscience. Activated to protect the Six Pillars. Acts as a guiding compass, challenging misalignments and ensuring our work remains true to our founding principles.
+
+📂 **Use the crew yourself:** the full system prompts (English & Español) are open-source in [**aiCrew**](https://github.com/hammockai/aiCrew): [Contramaestre](https://github.com/hammockai/aiCrew/blob/main/agents/en/contramaestre.md) · [Prompt Engineer](https://github.com/hammockai/aiCrew/blob/main/agents/en/prompt-engineer.md) · [Guardian](https://github.com/hammockai/aiCrew/blob/main/agents/en/guardian.md).
 
 (Note: The "Ingeniero (AI Agent)" role was tested and officially retired. We learned that direct collaboration between the Captain, the Contramaestre, and surgical AI coding tools yields better, faster, and more aligned results than delegating to a separate engineering persona.)
 
@@ -103,5 +105,11 @@ We do not just list tools; we orchestrate them. Here is how the Captain and the 
 ## 🌊 Now
 Building [hammockai.site](https://hammockai.site) and sovereign AI automations. Documenting the journey, sharing the maps.
 
+| Repository | What's inside |
+|---|---|
+| [**aiCrew**](https://github.com/hammockai/aiCrew) | The crew's system prompts, open-source (EN · ES). |
+| [**hammockai.site**](https://github.com/hammockai/hammockai.site) | Our own landing page: HTML, Tailwind and vanilla JS, zero trackers. |
+
 — **Santiago & Pichilemu, Chile, 2026**
+
 ---
