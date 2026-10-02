@@ -1,7 +1,8 @@
 # 🏴‍☠️ Hammock AI — Manifesto & Core Pillars
 
 **Websites, Automations, and AI Agents for solo dreamers and small businesses.**  
-Self-taught, from Chile.
+Self-taught, from Chile.  
+🇨🇱 [Leer en español](https://github.com/hammockai/.github/blob/main/profile/README.es.md)
 
 ---
 
@@ -27,7 +28,7 @@ The Hammock Crew was not created all at once. It evolved organically to solve sp
 
 - **The Guardian (AI Agent):** The conscience. Activated to protect the Six Pillars. Acts as a guiding compass, challenging misalignments and ensuring our work remains true to our founding principles.
 
-📂 **Use the crew yourself:** the full system prompts (English & Español) are open-source in [**aiCrew**](https://github.com/hammockai/aiCrew): [Contramaestre](https://github.com/hammockai/aiCrew/blob/main/agents/en/contramaestre.md) · [Prompt Engineer](https://github.com/hammockai/aiCrew/blob/main/agents/en/prompt-engineer.md) · [Guardian](https://github.com/hammockai/aiCrew/blob/main/agents/en/guardian.md).
+📂 **Use the crew yourself:** the full system prompts (English & Español) are openly shared under CC BY-SA 4.0 in [**aiCrew**](https://github.com/hammockai/aiCrew): [Contramaestre](https://github.com/hammockai/aiCrew/blob/main/agents/en/contramaestre.md) · [Prompt Engineer](https://github.com/hammockai/aiCrew/blob/main/agents/en/prompt-engineer.md) · [Guardian](https://github.com/hammockai/aiCrew/blob/main/agents/en/guardian.md).
 
 (Note: The "Ingeniero (AI Agent)" role was tested and officially retired. We learned that direct collaboration between the Captain, the Contramaestre, and surgical AI coding tools yields better, faster, and more aligned results than delegating to a separate engineering persona.)
 
@@ -107,9 +108,11 @@ Building [hammockai.site](https://hammockai.site) and sovereign AI automations. 
 
 | Repository | What's inside |
 |---|---|
-| [**aiCrew**](https://github.com/hammockai/aiCrew) | The crew's system prompts, open-source (EN · ES). |
-| [**hammockai.site**](https://github.com/hammockai/hammockai.site) | Our own landing page: HTML, Tailwind and vanilla JS, zero trackers. |
+| [**aiCrew**](https://github.com/hammockai/aiCrew) | The crew's system prompts (EN · ES), shared under CC BY-SA 4.0. |
+| [**hammockai.site**](https://github.com/hammockai/hammockai.site) | Source of our website. Public for hosting only, all rights reserved. |
 
 — **Santiago & Pichilemu, Chile, 2026**
 
 ---
+
+<sub>This manifesto is © 2026 Hammock AI, licensed under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/): share and quote it with credit, but do not modify it or present it as your own. The name *Hammock AI* and its logo are not licensed.</sub>
