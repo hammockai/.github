@@ -28,7 +28,9 @@ La Hammock Crew no se armó de una. Fue evolucionando sola, a medida que aparec�
 
 - **El Guardian (Agente IA):** la conciencia. Se activó para proteger los Seis Pilares. Es una brújula: cuestiona lo que no está alineado y cuida que el trabajo siga fiel a nuestros principios fundacionales.
 
-📂 **Usa la crew tú mismo:** los system prompts completos (English & Español) están compartidos con licencia CC BY-SA 4.0 en [**aiCrew**](https://github.com/hammockai/aiCrew): [Contramaestre](https://github.com/hammockai/aiCrew/blob/main/agents/es/contramaestre.md) · [Prompt Engineer](https://github.com/hammockai/aiCrew/blob/main/agents/es/prompt-engineer.md) · [Guardian](https://github.com/hammockai/aiCrew/blob/main/agents/es/guardian.md).
+- **Quintero, el Cuartelmaster (Agente IA):** el que tasa, guarda y reparte justo. Nació de una venta real (una liquidación de inventario sin mentiras y sin devoluciones). Pone precios justos, ordena el inventario y escribe textos honestos que cualquiera entiende, vetando la urgencia falsa y los patrones oscuros.
+
+📂 **Usa la crew tú mismo:** los system prompts completos (English & Español) están compartidos con licencia CC BY-SA 4.0 en [**aiCrew**](https://github.com/hammockai/aiCrew): [Contramaestre](https://github.com/hammockai/aiCrew/blob/main/agents/es/contramaestre.md) · [Prompt Engineer](https://github.com/hammockai/aiCrew/blob/main/agents/es/prompt-engineer.md) · [Guardian](https://github.com/hammockai/aiCrew/blob/main/agents/es/guardian.md) · [Quintero](https://github.com/hammockai/aiCrew/blob/main/agents/es/quintero.md).
 
 📜 **El viaje detrás:** más de un año de trabajo y estudio desde agosto de 2025, pasando por Claude, ChatGPT, Kimi y Qwen. Los agentes antiguos y retirados, y el linaje de cada uno, están en la [**Bitácora**](https://github.com/hammockai/aiCrew/blob/main/logbook/README.es.md).
 

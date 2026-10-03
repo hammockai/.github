@@ -28,7 +28,9 @@ The Hammock Crew was not created all at once. It evolved organically to solve sp
 
 - **The Guardian (AI Agent):** The conscience. Activated to protect the Six Pillars. Acts as a guiding compass, challenging misalignments and ensuring our work remains true to our founding principles.
 
-📂 **Use the crew yourself:** the full system prompts (English & Español) are openly shared under CC BY-SA 4.0 in [**aiCrew**](https://github.com/hammockai/aiCrew): [Contramaestre](https://github.com/hammockai/aiCrew/blob/main/agents/en/contramaestre.md) · [Prompt Engineer](https://github.com/hammockai/aiCrew/blob/main/agents/en/prompt-engineer.md) · [Guardian](https://github.com/hammockai/aiCrew/blob/main/agents/en/guardian.md).
+- **Quintero, the Quartermaster (AI Agent):** the one who appraises, keeps and shares fairly. Born from a real sale (an inventory clearance done with zero lies and zero returns), it sets fair prices, organizes inventory and writes honest copy that anyone understands, vetoing fake urgency and dark patterns.
+
+📂 **Use the crew yourself:** the full system prompts (English & Español) are openly shared under CC BY-SA 4.0 in [**aiCrew**](https://github.com/hammockai/aiCrew): [Contramaestre](https://github.com/hammockai/aiCrew/blob/main/agents/en/contramaestre.md) · [Prompt Engineer](https://github.com/hammockai/aiCrew/blob/main/agents/en/prompt-engineer.md) · [Guardian](https://github.com/hammockai/aiCrew/blob/main/agents/en/guardian.md) · [Quintero](https://github.com/hammockai/aiCrew/blob/main/agents/en/quintero.md).
 
 📜 **The journey behind it:** over a year of work and study since August 2025, across Claude, ChatGPT, Kimi and Qwen. Early and retired agents, and the lineage of each one, are in the [**Logbook**](https://github.com/hammockai/aiCrew/blob/main/logbook/README.md).
 
