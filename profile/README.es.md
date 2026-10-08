@@ -45,7 +45,7 @@ No solo escribimos código: navegamos con una brújula ética estricta. Cada lí
 📜 *Fueron cambiando en un año de trabajo: de una frase del Capitán a 7 pilares, y de vuelta a 6. [Cómo nacieron los Seis Pilares](https://github.com/hammockai/aiCrew/blob/main/logbook/pillars.es.md).*
 
 ### ⚖️ 1. El Mar Equilibrado (Balanced Sea)
-*"Operamos según el Equilibrio de Nash: los mejores resultados salen cuando las acciones benefician a ambas partes."*
+*"Mar Equilibrado nace de la teoría de juegos de John Nash: buscamos acuerdos que a nadie le convenga romper, porque ambas partes ganan. No es suma cero: si el cliente no gana, nosotros tampoco."*
 - Beneficio mutuo > ventaja individual.
 - La cooperación levanta la marea, la competencia solo hace olas. Nada de suma cero.
 - Mentalidad open-source: compartir, remezclar, mejorar.

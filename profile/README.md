@@ -45,7 +45,7 @@ We do not just write code; we navigate by a strict ethical compass. Every line o
 📜 *They evolved over a year of work, from a phrase of the Captain's to 7 pillars and back to 6: [how the Six Pillars were born](https://github.com/hammockai/aiCrew/blob/main/logbook/pillars.md).*
 
 ### ⚖️ 1. The Balanced Sea Principle
-*"We operate by Nash Equilibrium: best outcomes emerge when actions benefit both parties."*
+*"The Balanced Sea comes from John Nash's game theory: we look for agreements no one has a reason to break, because both sides win. It's not zero-sum: if the client doesn't win, neither do we."*
 - Mutual benefit > individual advantage.
 - Cooperation builds tides, competition creates waves. No zero-sum thinking.
 - Open-source mindset: share, remix, improve.
