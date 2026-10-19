@@ -93,17 +93,19 @@ We do not just list tools; we orchestrate them. Here is how the Captain and the 
 - **HTML · CSS · Tailwind · JavaScript · Git:** Clean, portable, and auditable. 
 
 **The Minds (AI Models):**
-- **Qwen · DeepSeek · Kimi:** Our primary and fallback intelligence. Chosen for their open-source ethos, affordability.
+- **Claude · ChatGPT · Gemini:** Where the research and the crew began. Still part of the daily work.
+- **Qwen · DeepSeek · Kimi:** Primary and fallback intelligence. Chosen for their open-source ethos and affordability.
 
 **The Hands & Nervous System (AI Tools):**
-- **Qoder (in VSCodium):** Executes surgical code edits under strict Rules of Engagement (no unasked work, no assumptions, small chunks).
+- **Claude Code (in VSCodium):** Our current coding agent. The crew lives here as subagents, coordinated by the Contramaestre, and executes surgical edits under strict Rules of Engagement (no unasked work, no assumptions, small chunks).
+- **Tried and tested along the way:** Qwen Code, Qoder (formerly Lingma) and OpenCode.
 - **n8n (Self-hosted):** The orchestration layer. Builds automations locally.
 
 **The Workflow:**
 1. The **Captain (Developer)** defines the goal and the boundary.
 2. The **Contramaestre** checks for flaws, maps the route, and navigates alongside the Captain.
 3. The **Prompt Engineer** crafts the surgical instruction.
-4. Qoder (the AI coding tool) executes the code in small, verifiable chunks.
+4. Claude Code (the AI coding agent) executes the code in small, verifiable chunks.
 5. The **Guardian** reviews the output against the full Hammock philosophy, policies, and guardrails before deployment, advising the Captain (or the required crew member or AI Agent) on any misalignments and proposing practical solutions.
 6. The **Captain** and the **Contramaestre (or the required crew member or AI Agents)** iterate on the result and keep building.
 

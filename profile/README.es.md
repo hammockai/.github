@@ -93,17 +93,19 @@ No solo listamos herramientas: las orquestamos. Así trabajan juntos el Capitán
 - **HTML · CSS · Tailwind · JavaScript · Git:** limpio, portable y auditable.
 
 **Las Mentes (modelos de IA):**
-- **Qwen · DeepSeek · Kimi:** nuestra inteligencia principal y de respaldo. Elegidos por su ethos open-source y por ser accesibles en precio.
+- **Claude · ChatGPT · Gemini:** con ellos empezó la investigación y nació la crew. Siguen en el trabajo diario.
+- **Qwen · DeepSeek · Kimi:** inteligencia principal y de respaldo. Elegidos por su ethos open-source y por ser accesibles en precio.
 
 **Las Manos y el Sistema Nervioso (herramientas de IA):**
-- **Qoder (en VSCodium):** hace ediciones de código quirúrgicas bajo Reglas de Combate estrictas (nada de trabajo no pedido, nada de suposiciones, pasos chicos).
+- **Claude Code (en VSCodium):** nuestro agente de código actual. Aquí vive la crew como subagentes, coordinados por el Contramaestre, y hace ediciones quirúrgicas bajo Reglas de Combate estrictas (nada de trabajo no pedido, nada de suposiciones, pasos chicos).
+- **Probados en el camino:** Qwen Code, Qoder (antes Lingma) y OpenCode.
 - **n8n (self-hosted):** la capa de orquestación. Arma automatizaciones en local.
 
 **El flujo:**
 1. El **Capitán (Desarrollador)** define la meta y el límite.
 2. El **Contramaestre** busca fallas, traza la ruta y navega junto al Capitán.
 3. El **Prompt Engineer** arma la instrucción quirúrgica.
-4. Qoder (la herramienta de código con IA) ejecuta el código en pasos chicos y verificables.
+4. Claude Code (el agente de código con IA) ejecuta el código en pasos chicos y verificables.
 5. El **Guardian** revisa el resultado contra toda la filosofía, políticas y resguardos de Hammock antes de publicar, avisa al Capitán (o al miembro de la crew o agente que corresponda) de cualquier desalineación y propone soluciones prácticas.
 6. El **Capitán** y el **Contramaestre (o el miembro de la crew o agentes que corresponda)** iteran sobre el resultado y siguen construyendo.
 
